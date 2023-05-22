@@ -1,0 +1,9 @@
+*.xls
+*.xlsx
+/formatted data
+/db
+/auto
+/.chroma
+/_pycache_
+*.txt
+*.json
